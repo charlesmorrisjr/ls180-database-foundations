@@ -1,0 +1,1 @@
+select * from parts where part_number::text like '3%';
